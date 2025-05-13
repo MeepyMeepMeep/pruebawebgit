@@ -11,5 +11,6 @@ Repasar:
 - Aiyaiya am yor litel baraflai
 - Grin blac en blu
 - Mekin colors in de skai
-- [] Aiyaya
+- [ ] Cualquier cosa
+- [ ] Me dan un toke al Aiyaya
 - [x] Am your lirel baraflai
